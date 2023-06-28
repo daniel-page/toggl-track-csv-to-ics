@@ -18,7 +18,7 @@ Tested on:
 - Enter the name of the file in the Python script (filename string variable)
 - Run the script
   - This generates a file called output.ics
-- Import the \*.csv into a calendar (e.g. Gmail or Outlook)
+- Import the \*.ics into a calendar (e.g. Gmail or Outlook)
 
 ## Links/Resources
 
