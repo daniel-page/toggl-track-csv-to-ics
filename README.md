@@ -15,8 +15,8 @@ Tested on:
 
 - Export a detailed report over the time period of interest as a \*.csv file
   - https://track.toggl.com/reports/detailed/
-- Enter the name of the file in the Python script
-- Run the script (filename string variable)
+- Enter the name of the file in the Python script (filename string variable)
+- Run the script
   - This generates a file called output.ics
 - Import the \*.csv into a calendar (e.g. Gmail or Outlook)
 
